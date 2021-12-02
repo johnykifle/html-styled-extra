@@ -16,8 +16,18 @@ Then you can do things like writing `Html.Styled.Extra.nothing` instead of `text
 There are many event handlers & decoders in `Html.Styled.Events.Extra`, such as
 `targetValueInt` or `onClickPreventDefault`.
 
+## Contributing
 
 Feedback and contributions are very welcome.
+
+### Publishing a new version
+
+```sh
+$ elm bump
+$ git tag 1.0.0
+$ git push origin 1.0.0
+$ elm publish
+```
 
 ## License
 
