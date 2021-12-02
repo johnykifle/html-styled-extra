@@ -16,4 +16,11 @@ jobs:
         with:
           elm-version: 0.19.1
 
-      - run: elm make && elm-format --validate src
+      - run: elm make
+      
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - run: npm install -g elm-format
+      - run: elm-format --validate src
