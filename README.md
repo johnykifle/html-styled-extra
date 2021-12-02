@@ -11,7 +11,7 @@ You may want to import this into the `Html` namespace:
 import Html.Styled.Extra as Html
 ```
 
-Then you can do things like writing `Html.Styled.nothing` instead of `text ""`.
+Then you can do things like writing `Html.Styled.Extra.nothing` instead of `text ""`.
 
 There are many event handlers & decoders in `Html.Styled.Events.Extra`, such as
 `targetValueInt` or `onClickPreventDefault`.
