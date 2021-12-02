@@ -1,6 +1,6 @@
 # Additional HTML-related Functions for [`rtfeldman/elm-css`](https://github.com/rtfeldman/elm-css)
 
-[![html-styled-extra Build Status](https://travis-ci.com/matken11235/html-styled-extra.svg?branch=master)](https://travis-ci.com/matken11235/html-styled-extra)
+[![CI](https://github.com/ken-matsui/html-styled-extra/actions/workflows/elm.yml/badge.svg)](https://github.com/ken-matsui/html-styled-extra/actions/workflows/elm.yml)
 
 This package contains convenience functions for working with Html, beyond that
 which `rtfeldman/elm-css` provides.
