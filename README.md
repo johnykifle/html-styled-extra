@@ -16,6 +16,21 @@ Then you can do things like writing `Html.Styled.Extra.nothing` instead of `text
 There are many event handlers & decoders in `Html.Styled.Events.Extra`, such as
 `targetValueInt` or `onClickPreventDefault`.
 
+## Installation
+
+Run the following command in your directory that contains `elm.json`:
+
+```bash
+$ elm install ken-matsui/html-styled-extra
+Here is my plan:
+
+  Add:
+    ken-matsui/html-styled-extra    1.0.0
+
+Would you like me to update your elm.json accordingly? [Y/n]: y
+Success!
+```
+
 ## Contributing
 
 Feedback and contributions are very welcome.
