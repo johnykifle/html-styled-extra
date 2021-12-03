@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "matken11235/html-styled-extra",
+    "name": "ken-matsui/html-styled-extra",
     "summary": "Additional functions for working with Html.Styled",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "exposed-modules": [
         "Html.Styled.Extra",
         "Html.Styled.Attributes.Extra",
